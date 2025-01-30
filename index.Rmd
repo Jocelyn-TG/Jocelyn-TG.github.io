@@ -1,20 +1,31 @@
 ---
-title: "Xiang Guo"
-image: "xiang.jpg"
+title: "Jocelyn Trujillo Gutierrez"
+image: "joce.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Jocelyn-TG"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:jocelynt@lcg.unam.mx"
 output:
-  postcards::jolla_blue
+  postcards::trestles
 ---
- 
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+
+# Bio
+
+I am an undergraduate student in Genomics Sciences at the National Autonomous University of Mexico. I am currently developing a tool for network analysis and studying the pharmacological resistance of Acinetobacter baumannii to rifampicin.
+
+## Education
+
+*Escuela de Tecnicos Laboratoristas* | Mexico, Morelos
+
+Pharmaceutical industrial laboratory technician & Highschool | September 2020 - May 2023
+
+*National Autonomous University of Mexico (UNAM)* | Mexico, Morelos
+
+Undergraduate in Genomic Sciences | September 2023 - Present
+
+## Experience
+
+*Laboratory of Evolutionary Genomics, CCG, UNAM* | research assistant | January 2024 - Present
+
+*Freyrelab* | research assistant | September 2024 - Present
